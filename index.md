@@ -1,11 +1,11 @@
-## Welcome to [title of event]
+## Welcome to Event1
 
 Detailed description of event.
 
 
-### Date
-### Time
-### Location
+### Date:     May 29, 2017
+### Time:     10:00 - 11:00 am
+### Location  Health Sciences Library, Classroom C
 
 
 
